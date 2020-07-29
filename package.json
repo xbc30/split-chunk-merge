@@ -1,0 +1,36 @@
+{
+  "name": "split-chunk-merge",
+  "version": "1.0.0",
+  "description": "split and merge chunk tool library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "readable-stream": "^3.6.0",
+    "bluebird": "^3.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xbc30/split-chunk-merge.git"
+  },
+  "keywords": [
+    "split",
+    "merge",
+    "stream",
+    "join",
+    "combine",
+    "chunk",
+    "file"
+  ],
+  "author": "candy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xbc30/split-chunk-merge/issues"
+  },
+  "homepage": "https://github.com/xbc30/split-chunk-merge#readme"
+}
